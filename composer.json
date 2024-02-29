@@ -1,0 +1,17 @@
+{
+    "name": "mh-shuvo/calculators",
+    "autoload": {
+        "psr-4": {
+            "MhShuvo\\Calculators\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD Mehedi Hasan",
+            "email": "shuvo@asl.aero"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
